@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/ciro-raggio-6578a11b7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ciro-raggio-6578a11b7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
