@@ -4,19 +4,18 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ciro-raggio-6578a11b7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 <h1 align="left">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ciro-raggio-6578a11b7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
