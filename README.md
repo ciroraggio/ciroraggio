@@ -11,7 +11,6 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3> 
-###
 
 <p align="left">I'm passionate about programming, AI, cyber security and robotics.<br><br>- 🔭 I’m working as Software Engineer @ ALMA SRL<br>- 📚 Graduated in Computer Science & Biomedical Engineering</p>
 <div align="center">
