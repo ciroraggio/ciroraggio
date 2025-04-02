@@ -12,7 +12,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3> 
 
-<p align="left">I'm passionate about programming, AI, cyber security and robotics.<br><br>- 🔭 I’m working as Biomedical Engineer @ Institute of Biomedical Engineering (IBT) - Karlsruhe Institute of Technology (KIT) <br>- 📚 B.Sc. in Computer Science & Biomedical Engineering - M.Sc. in Biomedical Engineering</p>
+<p align="left">I'm passionate about programming, AI, cyber security and robotics.<br><br>🔭 I’m working as Biomedical Engineer @ Institute of Biomedical Engineering (IBT) - Karlsruhe Institute of Technology (KIT)</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/ciro-raggio-6578a11b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="linkedin logo"  />
@@ -125,7 +125,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ciroraggio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ciroraggio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ciroraggio&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
